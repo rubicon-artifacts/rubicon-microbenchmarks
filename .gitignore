@@ -1,0 +1,13 @@
+.vscode/
+build/
+block_merge
+*.log
+*.o
+*.cmd
+*.symvers
+*.order
+*.ko
+*.mod
+*.mod.c
+pcp_evict
+migratetype_escalation
